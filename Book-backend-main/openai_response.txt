@@ -1,0 +1,144 @@
+{
+    "books": [
+        {
+            "title": "ONE BEYONDERS MULL",
+            "filename": "piece_9.jpg",
+            "quordnates": [337, 235, 381, 449, 44, 214]
+        },
+        {
+            "title": "SPECIALS",
+            "filename": "piece_10.jpg",
+            "quordnates": [59, 253, 96, 445, 37, 192]
+        },
+        {
+            "title": "TOR THE OP WORLD",
+            "filename": "piece_5.jpg",
+            "quordnates": [29, 575, 67, 772, 38, 197]
+        },
+        {
+            "title": "The Adventures",
+            "filename": "piece_29.jpg",
+            "quordnates": [322, 544, 353, 680, 31, 136]
+        },
+        {
+            "title": "Eats Shoots & Leaves",
+            "filename": "piece_16.jpg",
+            "quordnates": [111, 573, 133, 769, 22, 196]
+        },
+        {
+            "title": "No text found",
+            "filename": "piece_18.jpg",
+            "quordnates": [9, 554, 33, 774, 24, 220]
+        },
+        {
+            "title": "BORN ON A BLUE DAY",
+            "filename": "piece_17.jpg",
+            "quordnates": [177, 541, 196, 772, 19, 231]
+        },
+        {
+            "title": "ISAN ASIN OUNDA TRILO",
+            "filename": "piece_1.jpg",
+            "quordnates": [402, 195, 436, 449, 34, 254]
+        },
+        {
+            "title": "TOR WAY OF KINGS",
+            "filename": "piece_2.jpg",
+            "quordnates": [167, 262, 225, 446, 58, 184]
+        },
+        {
+            "title": "TWI",
+            "filename": "piece_7.jpg",
+            "quordnates": [241, 540, 277, 778, 36, 238]
+        },
+        {
+            "title": "i,robot",
+            "filename": "piece_3.jpg",
+            "quordnates": [377, 211, 406, 446, 29, 235]
+        },
+        {
+            "title": "SETT WESTERTEA",
+            "filename": "piece_24.jpg",
+            "quordnates": [25, 252, 64, 443, 39, 191]
+        },
+        {
+            "title": "Negotiator DEE HENDERSON",
+            "filename": "piece_22.jpg",
+            "quordnates": [194, 543, 218, 772, 24, 229]
+        },
+        {
+            "title": "H The Well of BRANDON Ascension SANDERSON",
+            "filename": "piece_20.jpg",
+            "quordnates": [253, 264, 300, 445, 47, 181]
+        },
+        {
+            "title": "The Hero BRANDON HB of Ages SANDERSON",
+            "filename": "piece_19.jpg",
+            "quordnates": [227, 251, 265, 444, 38, 193]
+        },
+        {
+            "title": "HE BRANDON The Well of Ascension SANDERSON The Hero HD of Ages BRANDON SANDERSON",
+            "filename": "piece_26.jpg",
+            "quordnates": [207, 261, 313, 448, 106, 187]
+        },
+        {
+            "title": "COLLINS MOCKING",
+            "filename": "piece_21.jpg",
+            "quordnates": [350, 539, 399, 776, 49, 237]
+        },
+        {
+            "title": "don't waste year 11",
+            "filename": "piece_27.jpg",
+            "quordnates": [272, 542, 291, 762, 19, 220]
+        },
+        {
+            "title": "م التالي Mockingbird",
+            "filename": "piece_14.jpg",
+            "quordnates": [90, 581, 118, 765, 28, 184]
+        },
+        {
+            "title": "20 mi",
+            "filename": "piece_31.jpg",
+            "quordnates": [0, 565, 17, 776, 17, 211]
+        },
+        {
+            "title": "2 Anne of Amon",
+            "filename": "piece_13.jpg",
+            "quordnates": [67, 583, 91, 770, 24, 187]
+        },
+        {
+            "title": "N TERSEN MAXIMUM RIDE",
+            "filename": "piece_11.jpg",
+            "quordnates": [139, 568, 178, 771, 39, 203]
+        },
+        {
+            "title": "ALL THINGS NEW BRITT LAUK",
+            "filename": "piece_12.jpg",
+            "quordnates": [215, 543, 247, 776, 32, 233]
+        },
+        {
+            "title": "Black Beauty",
+            "filename": "piece_30.jpg",
+            "quordnates": [287, 547, 307, 708, 20, 161]
+        },
+        {
+            "title": "Milborn BRANDON SANDERSON",
+            "filename": "piece_15.jpg",
+            "quordnates": [293, 261, 329, 448, 36, 187]
+        },
+        {
+            "title": "WESTERFELD EXTRAS",
+            "filename": "piece_4.jpg",
+            "quordnates": [91, 253, 134, 445, 43, 192]
+        },
+        {
+            "title": "Black Beauty don't waste your li",
+            "filename": "piece_23.jpg",
+            "quordnates": [274, 546, 307, 758, 33, 212]
+        },
+        {
+            "title": "tor THE WORD",
+            "filename": "piece_35.jpg",
+            "quordnates": [19, 560, 52, 769, 33, 209]
+        }
+    ]
+}
