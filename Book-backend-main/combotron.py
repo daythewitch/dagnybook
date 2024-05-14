@@ -4,6 +4,7 @@ import subprocess
 import requests
 import os
 import uuid
+import json
 
 app = Flask(__name__)
 CORS(app)
@@ -35,7 +36,7 @@ def process_files():
         with open('openai_response.txt', 'r') as file:
             response_content = file.read()
         # Assuming response.txt contains valid JSON
-        response_data = eval(response_content)  # Or use json.loads
+        response_data = json.loads(response_content)  # Or use json.loads
         return jsonify(response_data)
     except FileNotFoundError:
         return jsonify({"error": "openai_response.txt not found"}), 500
